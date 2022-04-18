@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <title>Memory Game</title>
+</head>
+
+<body>
+    <div id="gamePlay">
+        <div>One Piece MemoryGame</div>
+        <button id="start" onclick=start()>Começar</button>
+        <br><br><br><br>
+        <p id="create">Create by <a href="https://www.linkedin.com/in/luan-bortoleto-590490234/">Luan Bortoleto</a></p>
+
+    </div>
+
+    <div id="gameBoard"> </div>
+    <div id="audio">
+        <audio id="song" src="./audio/onepiece.mp3"></audio>
+        <br><br><br><br>
+
+        </audio>
+    </div>
+
+    <div id="gameOver">
+        <div>Parabéns Pirata, você venceu!</div>
+        <button id="restart" onclick="restart()">Jogue Novamente</button>
+    </div>
+    <script src="./script/game.js"></script>
+
+    <script src="./script/script.js"></script>
+
+</body>
+
+
+</html>
