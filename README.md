@@ -5,7 +5,7 @@
   <a href='https://www.instagram.com/luanbortoleto/'><img alt='Luan Bortoleto [Instagram]' src='./imagens/iconluffy.jpg' width=20px></a>
   </p>
   
-  <p> Este projeto foi feito atraves dos conhecimentos de JS, HTML, CSS.
+  <p align="center"> Este projeto foi feito atraves dos conhecimentos de JS, HTML, CSS.
  </p>
  
  <p align='center'>
@@ -18,13 +18,13 @@
  
  ### Sobre
  
- Jogo da memória inspirado no anime One Piece com áudio de fundo
+ Jogo da memória feito usando lógica de programação, inspirado no anime One Piece com áudio de fundo
  
  
  ### Demonstração
  
- <img src= '.>
- <p align='center' font-size=20px> <a href=https://luan400.github.io/Jogo-da-velha-vs-bot/>Teste</a></p>
+ <img src= './imagens/gifpiece.gif'>
+ <p align='center' font-size=20px> <a href=https://luan400.github.io/One-Piece-MemoryGame/>Jogue agora</a></p>
  
  
 ### Tecnologias
